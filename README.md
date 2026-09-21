@@ -10,4 +10,4 @@ za celý školní rok. Odevzdává se commitem, ne mailem.
 - (další měsíce přibudou)
 
 ## Kdo
-Kód žáka: 18 · třída IT2
+Kód žáka: 18 · třída IT2 67
